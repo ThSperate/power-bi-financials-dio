@@ -28,7 +28,11 @@ https://github.com/julianazanelatto/power_bi_analyst
 
 ## 🛠️ Ferramentas Utilizadas
 - Power BI Desktop
-- Power BI Service
-- GitHub
 
-📌 Projeto desenvolvido por **Thiago Sperate**  
+## 👨‍💻 Autor
+
+Thiago Sperate 😎  
+Analista de Dados 📊  
+
+📎 [LinkedIn](https://www.linkedin.com/in/thiagosperate/)  
+📁 [Portfólio](https://github.com/ThSperate)
